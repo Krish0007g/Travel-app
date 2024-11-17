@@ -1,5 +1,5 @@
 # Creating a README.md file for a travel app
-travel_app_readme_content = """
+
 # Travel App 🌍
 
 An Android application for exploring travel destinations, planning trips, and managing itineraries with a seamless user experience.
